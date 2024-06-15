@@ -2,7 +2,7 @@ What are Semi, Anti, and Natural Joins in SQL?
 
 We all have heard of LEFT JOIN, RIGHT JOIN, INNER JOIN, and OUTER JOIN, haven’t we?
 
-Here’s a short description:
+Here’s a short description:-
 
 Inner Join: Returns only matching rows from both tables.
 Left Join: Returns all rows from the left table and matching rows from the right. Non-matching rows from the left table contain null values.
