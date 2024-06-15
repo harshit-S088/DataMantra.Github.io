@@ -1,5 +1,10 @@
-Here you can say lots of fun things about your site.
+What are Semi, Anti, and Natural Joins in SQL?
 
-Maybe say a some things about yourself.
+We all have heard of LEFT JOIN, RIGHT JOIN, INNER JOIN, and OUTER JOIN, haven’t we?
 
-Or maybe what you plan to blog about.
+Here’s a short description:
+
+Inner Join: Returns only matching rows from both tables.
+Left Join: Returns all rows from the left table and matching rows from the right. Non-matching rows from the left table contain null values.
+Right Join: Returns all rows from the right tables and matching rows from the left. Non-matching rows from the right table contain null values.
+Full Outer Join: Returns all rows when there is a match in either table. Non-matching rows contain null values.
